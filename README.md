@@ -38,11 +38,38 @@
 ##### The staffing agency has a limited number of nurses, physician assistants, and doctors on staff.
 ##### There’s no money to hire additional medical personnel.
 
+## Data
+
+#### The following data sets covering influenza in the United States will be used during the project: https://coach-courses-us.s3.amazonaws.com/public/courses/da_program/CDC_Influenza_Deaths_edited.xlsx
+##### 1. Influenza deaths by geography, time, age, and gender (Source:​ ​CDC)
+
+##### 2. Population data by geography (Source: US Census Bureau): https://coach-courses-us.s3.amazonaws.com/public/courses/data-immersion/A1-A2_Influenza_Project/Census_Population_transformed_202101.csv
+###### NOTE: keep in mind that these numbers are estimates, hence the sum of the numbers from the different age groups may not sum up to the total in the first columns, but that’s totally okay.
+
+
+## Tools and Skills
+#### Tools: Tableau and Microsoft Excel
+#### Skills: Project Design, Data Sourcing, Data Profiling, Data Quality Measures, Data Transformation, Statistical Analysis/Hypothesis Testing, Forecasting, Creating an Interim Report, Data Visualizations/Dashboards, Storytelling/Presenting Data
+
+## Link to Final Presentation
+##### Tableau Storyboard: https://public.tableau.com/app/profile/tristan.savella/viz/StoryboardPlanningforInfluenzaSeason/StoryboardProject2_9
+##### Final Presentation: https://www.youtube.com/watch?v=v-6jxMWetbA
+
 ## Steps to Analysis
+
+##### 1. Create a list of project questions (Document 1.2)
+##### 2. Design the project: create a project management plan, form potential hypotheses, and create a data "wishlist" (Document 1.3)
+##### 3. Source the data: Two Datasets (see "Data" section below for more information 
+##### 4. Data Profiling/Cleaning (Excel): Check for Data integrity issues, list data types, clean data, and conduct initial summary statistics
+##### 5. Data Transformation: Merge/integrate the two datasets
+##### 6. Statistical Analyses and Hypothesis Testing (See "interim_report")
+##### 7. Create interim report
+##### 8. Create data visualizations and final storyboard (Tableau)
+##### 9. Record Final Presentation
 
 ## Insights
 
-##### 1. Between 2012-17, flu season has consistently lasted from November-March (usually peaking in January)
+##### 1. Between 2012-17, flu season has consistently lasted from November-March (usually peaking in January). This is consistent in all states.
 ![month](images/death_count_month.png)
 ![forecast](images/forecast.png)
 
@@ -63,19 +90,3 @@
 ##### 2. Further research: Look into why the 65-74 age group specifically has had a steadily increasing death count since 2012 (the only age group to do so)
 ##### 3. Place most of the medical staffing on states with high populations (particularly older populations), states with high population-density, and states on the east coast (for easier inter-state travel as needed)
 ##### 4. Expect flu season to peak between November-March. Begin increasing medical staffing leading into November and decreasing beginning in March/April, as needed. Further analysis needed to determine how to implement the increase/decrease in staffing
-
-## Data
-
-#### The following data sets covering influenza in the United States will be used during the project: https://coach-courses-us.s3.amazonaws.com/public/courses/da_program/CDC_Influenza_Deaths_edited.xlsx
-##### 1. Influenza deaths by geography, time, age, and gender (Source:​ ​CDC)
-
-##### 2. Population data by geography (Source: US Census Bureau): https://coach-courses-us.s3.amazonaws.com/public/courses/data-immersion/A1-A2_Influenza_Project/Census_Population_transformed_202101.csv
-###### NOTE: keep in mind that these numbers are estimates, hence the sum of the numbers from the different age groups may not sum up to the total in the first columns, but that’s totally okay.
-
-
-## Tools and Skills
-#### Tools: Tableau and Microsoft Excel
-#### Skills: Project Design, Data Sourcing, Data Profiling, Data Quality Measures, Data Transformation, Statistical Analysis/Hypothesis Testing, Forecasting, Creating an Interim Report, Data Visualizations/Dashboards, Storytelling/Presenting Data
-
-## Link to Tableau Storyboard
-##### https://public.tableau.com/app/profile/tristan.savella/viz/StoryboardPlanningforInfluenzaSeason/StoryboardProject2_9
