@@ -43,16 +43,19 @@
 ## Insights
 
 ##### 1. Between 2012-17, flu season has consistently lasted from November-March (usually peaking in January)
+![month](images/death_count_month.png)
+![forecast](images/forecast.png)
+
 ##### 2. The older the age group, the higher the flu-related death count and death rate. Older populations account for a vast majority of flu-relate deaths. 
-###### 2a. Age 85+: Accounts for 51% of flu-related deaths
-###### 2b. Age 75-84: Accounts for 27% of flu-related deaths
-###### 2c: Age 65-74: Accounts for 13% of flu-related deaths
+![age](images/death_count_age.png)
 ##### 3. All age groups saw an increase in death counts between 2012-2013
 ##### 4. The 65-74 age group has seen a steady rise in death counts from 2012-17
+![age_year](images/death_count_age_year.png)
 ##### 5. States with higher densities seem to have higher death counts. Examples include: 
 ###### 5a. New York vs. Texas: Texas is the 2nd most populous state and New York is the 3rd, however, New York has a much higher death count at over 40,000 to Texas' 26,000 (between 2012-17)
 ###### 5b. Massachussetts has a population of 6.5 million and a total death count of 11,000 between 2012-17. The large states (by land area) of Washington and Arizona have similar populations yet both have about 50% of MA's total number of deaths.
 ###### 5c. Hawaii has a population of 1.3 million and around 2,500 deaths. In comparison, the larger, less dense state of Idaho has a population of 1.6 million and only 586 deaths.
+![map](images/map.png)
 ##### 6. States on the east coast typically see higher death counts than in the rest of the country
 
 ## Recommendations
@@ -60,8 +63,6 @@
 ##### 2. Further research: Look into why the 65-74 age group specifically has had a steadily increasing death count since 2012 (the only age group to do so)
 ##### 3. Place most of the medical staffing on states with high populations (particularly older populations), states with high population-density, and states on the east coast (for easier inter-state travel as needed)
 ##### 4. Expect flu season to peak between November-March. Begin increasing medical staffing leading into November and decreasing beginning in March/April, as needed. Further analysis needed to determine how to implement the increase/decrease in staffing
-![forecast](images/forecast.png)
-
 
 ## Data
 
