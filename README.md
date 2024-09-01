@@ -40,8 +40,9 @@
 
 ## Data
 
-#### The following data sets covering influenza in the United States will be used during the project: https://coach-courses-us.s3.amazonaws.com/public/courses/da_program/CDC_Influenza_Deaths_edited.xlsx
-##### 1. Influenza deaths by geography, time, age, and gender (Source:​ ​CDC)
+#### The following data sets covering influenza in the United States will be used during the project:
+
+##### 1. Influenza deaths by geography, time, age, and gender (Source:​ ​CDC):  https://coach-courses-us.s3.amazonaws.com/public/courses/da_program/CDC_Influenza_Deaths_edited.xlsx
 
 ##### 2. Population data by geography (Source: US Census Bureau): https://coach-courses-us.s3.amazonaws.com/public/courses/data-immersion/A1-A2_Influenza_Project/Census_Population_transformed_202101.csv
 ###### NOTE: keep in mind that these numbers are estimates, hence the sum of the numbers from the different age groups may not sum up to the total in the first columns, but that’s totally okay.
