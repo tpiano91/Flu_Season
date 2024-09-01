@@ -11,17 +11,17 @@
 ##### ​The agency covers all hospitals in each of the 50 states of the United States, and the project will plan for the upcoming influenza season.
 
 ## Project Requirements
-#### 1. Provide information to support a staffing plan, detailing what data can help inform the timing and spatial distribution of medical personnel throughout the United States.
-#### 2. Determine whether influenza occurs seasonally or throughout the entire year. If seasonal, does it start and end at the same time (month) in every state?
-#### 3. Prioritize states with large vulnerable populations. Consider categorizing each state as low-, medium-, or high-need based on its vulnerable population count.
-#### 4. Assess data limitations that may prevent you from conducting your desired analyses.
+##### 1. Provide information to support a staffing plan, detailing what data can help inform the timing and spatial distribution of medical personnel throughout the United States.
+##### 2. Determine whether influenza occurs seasonally or throughout the entire year. If seasonal, does it start and end at the same time (month) in every state?
+##### 3. Prioritize states with large vulnerable populations. Consider categorizing each state as low-, medium-, or high-need based on its vulnerable population count.
+##### 4. Assess data limitations that may prevent you from conducting your desired analyses.
 
 
 ### Stakeholder Identification
-##### Medical agency frontline staff (nurses, physician assistants, and doctors)
-##### Hospitals and clinics using the staffing agency’s services
-##### Influenza patients
-##### Staffing agency administrators
+##### 1. Medical agency frontline staff (nurses, physician assistants, and doctors)
+##### 2.Hospitals and clinics using the staffing agency’s services
+##### 3. Influenza patients
+##### 4. Staffing agency administrators
 
 ## Success Factors
 ### The project’s success will be based on:
