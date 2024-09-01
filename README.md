@@ -74,3 +74,6 @@ complications and end up in the hospital. Hospitals and clinics need additional 
 ## Tools and Skills
 #### Tools: Tableau and Microsoft Excel
 #### Skills: Project Design, Data Sourcing, Data Profiling, Data Quality Measures, Data Transformation, Statistical Analysis/Hypothesis Testing, Forecasting, Creating an Interim Report, Data Visualizations/Dashboards, Storytelling/Presenting Data
+
+## Link to Tableau Storyboard
+##### https://public.tableau.com/app/profile/tristan.savella/viz/StoryboardPlanningforInfluenzaSeason/StoryboardProject2_9
