@@ -99,5 +99,6 @@
 ## Recommendations
 ##### 1. Further research: Look into possible correlation between population density and death count/rate
 ##### 2. Further research: Look into why the 65-74 age group specifically has had a steadily increasing death count since 2012 (the only age group to do so)
-##### 3. Place most of the medical staffing on states with high populations (particularly older populations), states with high population-density, and states on the east coast (for easier inter-state travel as needed)
-##### 4. Expect flu season to peak between November-March. Begin increasing medical staffing leading into November and decreasing beginning in March/April, as needed. Further analysis needed to determine how to implement the increase/decrease in staffing
+##### 3. Further research: See if there has been a history of overstaffing or understaffing in any state.
+##### 4. Place most of the medical staffing on states with high populations (particularly older populations), states with high population-density, and states on the east coast (for easier inter-state travel as needed)
+##### 5. Expect flu season to peak between November-March. Begin increasing medical staffing leading into November and decreasing beginning in March/April, as needed. Further analysis needed to determine how to implement the increase/decrease in staffing
