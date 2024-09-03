@@ -17,24 +17,24 @@
 ##### 4. Assess data limitations that may prevent you from conducting your desired analyses.
 
 
-### Stakeholder Identification
+## Stakeholder Identification
 ##### 1. Medical agency frontline staff (nurses, physician assistants, and doctors)
 ##### 2.Hospitals and clinics using the staffing agency’s services
 ##### 3. Influenza patients
 ##### 4. Staffing agency administrators
 
 ## Success Factors
-### The project’s success will be based on:
+#### The project’s success will be based on:
 ##### A staffing plan that utilizes all available agency staff per state requirements, without necessitating additional resources
 ##### Minimal instances of understaffing and overstaffing across states (a state can be considered understaffed if the staff-to-patient ratio is lower than 90% of the required ratio and overstaffed if greater than 110%)
 
 ## Assumptions & Constraints
 
-### Assumptions:
+#### Assumptions:
 ##### Vulnerable populations suffer the most-severe impacts from the flu and are the most likely to end up in the hospital.
 ##### Flu shots decrease the chance of becoming infected with the flu. 
 
-### Constraints:
+#### Constraints:
 ##### The staffing agency has a limited number of nurses, physician assistants, and doctors on staff.
 ##### There’s no money to hire additional medical personnel.
 
@@ -63,8 +63,7 @@
 ##### 3. Source the data: Two Datasets (see "Data" section below for more information 
 ##### 4. Data Profiling/Cleaning (Excel): Check for Data integrity issues, list data types, clean data, and conduct initial summary statistics
 ##### 5. Data Transformation: Merge/integrate the two datasets
-##### 6. Statistical Analyses and Hypothesis Testing (See "interim_report")
-##### 7. Create interim report
+##### 6. Statistical Analyses/Hypothesis Testing and Create Interim Report
 ##### 8. Create data visualizations and final storyboard (Tableau)
 ##### 9. Record Final Presentation
 
