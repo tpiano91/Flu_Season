@@ -25,8 +25,8 @@
 
 ## Success Factors
 #### The project’s success will be based on:
-##### A staffing plan that utilizes all available agency staff per state requirements, without necessitating additional resources
-##### Minimal instances of understaffing and overstaffing across states (a state can be considered understaffed if the staff-to-patient ratio is lower than 90% of the required ratio and overstaffed if greater than 110%)
+##### 1. A staffing plan that utilizes all available agency staff per state requirements, without necessitating additional resources
+##### 2. Minimal instances of understaffing and overstaffing across states (a state can be considered understaffed if the staff-to-patient ratio is lower than 90% of the required ratio and overstaffed if greater than 110%)
 
 ## Assumptions & Constraints
 
@@ -46,6 +46,17 @@
 
 ##### 2. Population data by geography (Source: US Census Bureau): https://coach-courses-us.s3.amazonaws.com/public/courses/data-immersion/A1-A2_Influenza_Project/Census_Population_transformed_202101.csv
 ###### NOTE: keep in mind that these numbers are estimates, hence the sum of the numbers from the different age groups may not sum up to the total in the first columns, but that’s totally okay.
+
+## Project Questions
+
+#### 1) In previous years, how did flu season compare to non-flu season in terms of number of flu-related hospital admissions and deaths? Was there a significant increase and if so, by what percentage?
+###### 1a) Have there been any trends in recent years? Have the number of flu-related deaths/hospital admissions during flu season been increasing, decreasing or staying the same in recent years? Were certain years particularly bad?
+###### 2a) Aside from the listed vulnerable population, was there any difference in the numbers regarding flu-related admissions/deaths by other age ranges or socio-economic backgrounds?
+#### 2) Which exact dates are considered to be the start and end of flu season?
+###### 2a) Is the “official” (for the purpose of this study) starting and ending date of flu season the same each year, or are there certain factors that determine when one can consider the start or ending date? How does one choose the start and end dates of the season?
+#### 3) Has there been a history of overstaffing or understaffing during flu season in recent years?
+
+
 
 
 ## Tools and Skills
