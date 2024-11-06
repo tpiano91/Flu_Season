@@ -74,7 +74,8 @@
 ##### 3. Source the data: Two Datasets (see "Data" section below for more information )
 ##### 4. Data Profiling/Cleaning (Excel): Check for Data integrity issues, list data types, clean data, and conduct initial summary statistics
 ##### 5. Data Transformation: Merge/integrate the two datasets
-##### 6. Statistical Analyses/Hypothesis Testing: Conducted on Excel and reported on "Interim Report" document
+##### 6. Statistical Analyses/Hypothesis Testing: Conducted on Excel and reported on "Interim Report" document: [Click here to view](./interim_report_statistical_analysis.pdf)
+
 ##### 8. Data Visualizations: Final storyboard created on Tableau
 ##### 9. Record Final Presentation
 
